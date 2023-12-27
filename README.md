@@ -1,7 +1,7 @@
 # **Luis Gonzalez**
 ### Programador de Videojuegos
 
-###  Top Skills 
+###  ***Top Skills***
 
 
 
