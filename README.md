@@ -1,5 +1,5 @@
 # **Luis Gonzalez**
-### Programador de Videojuegos 💻
+### Programador de Videojuegos 
 
 ###  ***Top Skills***
 
@@ -19,4 +19,4 @@
 # ⭐ ⭐ 
 
 
-*Contacto* [Linkedin](https://www.linkedin.com/in/luis-gonzalez-623ab9252/)
+*Contacto* 💻 [Linkedin](https://www.linkedin.com/in/luis-gonzalez-623ab9252/)
