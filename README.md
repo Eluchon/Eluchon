@@ -12,7 +12,7 @@
 
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="200"></center>
 
-# ⭐ ⭐ ⭐ ✖️✖️
+# ⭐ ⭐ ⭐ ⭐ ✖️
 
 <center><img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" width="200"></center>
 
